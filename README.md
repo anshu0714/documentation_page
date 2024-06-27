@@ -18,4 +18,4 @@ Welcome to the JS Documentation project! This is a static documentation page for
 - CSS
 
 ## Preview
-![JS Documentation](js_documentation_preview.png)
+![JS Documentation](documentation_page.png)
